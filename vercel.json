@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/telegram-banner.png",
+      "destination": "/telegram-banner.png"
+    },
+    {
+      "source": "/default-batch-banner.png",
+      "destination": "/default-batch-banner.png"
+    },
+    {
+      "source": "/gb-study-logo.png",
+      "destination": "/gb-study-logo.png"
+    },
+    {
+      "source": "/favicon.png",
+      "destination": "/gb-study-logo.png"
+    },
+    {
+      "source": "/apple-touch-icon.png",
+      "destination": "/gb-study-logo.png"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ]
+}

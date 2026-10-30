@@ -1,0 +1,6 @@
+{
+  "name": "GB STUDY",
+  "description": "GB STUDY ~ Learn, Code, Grow - Free Study Batches and Resources",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
